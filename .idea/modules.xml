@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gradle.iml" filepath="$PROJECT_DIR$/gradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/qaguru-in-sh-lesson4.iml" filepath="$PROJECT_DIR$/.idea/qaguru-in-sh-lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qaguru-in-sh-lesson4.iml" filepath="$PROJECT_DIR$/qaguru-in-sh-lesson4.iml" />
     </modules>
   </component>
 </project>
