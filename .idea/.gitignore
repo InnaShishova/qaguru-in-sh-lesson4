@@ -1,5 +1,3 @@
-.gradle
-.idea
 *.log
 build/
 !**/src/main/**
@@ -11,3 +9,4 @@ build/
 *.ipr
 
 .idea
+.gradle
